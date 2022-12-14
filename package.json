@@ -17,9 +17,6 @@
     "typed.js": "^2.0.12"
   },
   "version": "0.1.0",
-  "engines": {
-    "node": "14.20.0"
-  },
   "devDependencies": {
     "webpack-dev-server": "^3.11.2"
   }
