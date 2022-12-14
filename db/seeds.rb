@@ -8,6 +8,7 @@
 require 'open-uri'
 
 puts "deleting data"
+User.destroy_all if Rails.env.development?
 Deal.destroy_all if Rails.env.development?
 Offer.destroy_all if Rails.env.development?
 puts "DB Clean!"
