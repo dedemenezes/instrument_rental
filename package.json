@@ -10,7 +10,9 @@
     "channels": "0.0.4",
     "flatpickr": "^4.6.9",
     "jquery": "^3.6.0",
+    "node-sass": "^8.0.0",
     "popper.js": "^1.16.1",
+    "sass-loader": "^13.2.0",
     "turbolinks": "^5.2.0",
     "typed.js": "^2.0.12"
   },
